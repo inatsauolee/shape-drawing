@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dessin>
+    <line width="2.0" x="222.0" xEnd="780.0" y="200.0" yEnd="469.0"/>
+    <cercle rayon="133.0" width="2.0" x="975.0" y="310.0"/>
+    <line width="2.0" x="228.0" xEnd="548.0" y="349.0" yEnd="467.0"/>
+    <line width="4.0" x="703.0" xEnd="908.0" y="242.0" yEnd="561.0"/>
+    <carre largeur="320.0" width="55.0" x="1113.0" y="472.5"/>
+    <rectangle hauteur="351.0" largeur="400.0" width="55.0" x="595.0" y="399.5"/>
+</dessin>
